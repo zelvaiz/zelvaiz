@@ -2,7 +2,7 @@
 <h2 align="center">An Aspiring Data Engineer from Indonesia</h2>
 
 
-- 🔭 I’m currently working on **Learning new things**
+- 🔭 I’m currently working on **learning new things**
 
 - 📫 How to reach me **zelvaimam15@gmail.com**
 
