@@ -15,10 +15,11 @@
 - 💬 Ask me about Anything!
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
 </a> 
 <a href="https://postgrest.org/en/v12/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="java" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="java" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://cloud.google.com/bigquery/?utm_source=google&utm_medium=cpc&utm_campaign=japac-ID-all-en-dr-BKWS-all-all-trial-PHR-dr-1605216&utm_content=text-ad-none-none-DEV_c-CRE_664894233771-ADGP_Hybrid+%7C+BKWS+-+BRO+%7C+Txt+-Data+Analytics-BigQuery-bigquery-main-KWID_43700077402597888-aud-970366092687:kwd-33969409261&userloc_9199067-network_g&utm_term=KW_bigquery&gad_source=1&gclid=CjwKCAjwnK60BhA9EiwAmpHZw66my4c5-BNfFlSL2am3JQ1AxgfKXDmZ433N-0BFXuIFThTSAqwKCxoCrR8QAvD_BwE&gclsrc=aw.ds&hl=en" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery" width="40" height="40"/> </a> </p>
 
 https://www.vectorlogo.zone/logos/python/python-ar21.svg
 https://www.vectorlogo.zone/logos/python/python-icon.svg
