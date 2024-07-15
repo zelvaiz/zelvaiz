@@ -17,6 +17,14 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+</a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/29e8719bf78915c7a82a26a6c203f53c4cb8fff2/logos/dbt-icon.svg" alt="dbt" width="40" height="40"/>
+</a>
+
 <a href="https://postgrest.org/en/v12/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
 </a>
